@@ -12,3 +12,5 @@ Este es un proyecto de ejemplo para demostrar la organización de un proyecto de
 
 Para ejecutar las pruebas, usa:
 
+1. Ejecuta las pruebas del módulo 1: `python -m unittest tests/test_modulo1.py`
+2. Ejecuta las pruebas del módulo 2: `python -m unittest tests/test_modulo2.py`
