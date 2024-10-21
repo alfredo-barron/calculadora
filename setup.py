@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='proyecto',
+    name='calculadora',
     version='1.0.0',
     packages=find_packages(),
     install_requires=[
@@ -10,7 +10,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'proyecto=proyecto.modulo1:main',
+            'calculadora=calculadora.modulo1:main',
         ],
     },
 )
