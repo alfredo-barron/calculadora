@@ -1,6 +1,6 @@
-from app.modulo1 import suma, resta
-from app.modulo2 import producto, division
-from app.utils import imprimir_bienvenida
+from src.modulo1 import suma, resta
+from src.modulo2 import producto, division
+from src.utils import imprimir_bienvenida
 
 if __name__ == '__main__':
     imprimir_bienvenida()

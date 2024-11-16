@@ -1,5 +1,5 @@
 import unittest
-from app.modulo2 import producto, division
+from src.modulo2 import producto, division
 
 class TestCalculadora(unittest.TestCase):
 
